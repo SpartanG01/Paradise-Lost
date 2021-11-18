@@ -1,0 +1,14 @@
+
+# Client settings
+# Note that these settings only affect blocks added by this mod.
+[client]
+
+	# Crying Obsidian settings
+	[client."crying obsidian"]
+		# Controls how likely it is for a particle to spawn when a animate tick occurs.
+		# The chance is calculated as follows: chance = 1/value
+		# Therefore, lower values result in a higher chance, and higher values result in a lower chance.
+		# A value of 0 disables the particles.
+		#Range: > 0
+		cryingObsidianParticleChance = 5
+
