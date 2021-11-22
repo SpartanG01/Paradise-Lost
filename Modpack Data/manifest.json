@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Paradise Lost",
-  "version": "v32.0.0",
+  "version": "v33.0",
   "author": "JaceTheGrayOne",
   "files": [
     {
@@ -220,6 +220,11 @@
       "required": true
     },
     {
+      "projectID": 494206,
+      "fileID": 3377245,
+      "required": true
+    },
+    {
       "projectID": 297028,
       "fileID": 3432688,
       "required": true
@@ -305,6 +310,11 @@
       "required": true
     },
     {
+      "projectID": 374529,
+      "fileID": 3432890,
+      "required": true
+    },
+    {
       "projectID": 317716,
       "fileID": 3231248,
       "required": true
@@ -360,6 +370,11 @@
       "required": true
     },
     {
+      "projectID": 244786,
+      "fileID": 3489846,
+      "required": true
+    },
+    {
       "projectID": 504908,
       "fileID": 3398020,
       "required": true
@@ -377,6 +392,11 @@
     {
       "projectID": 250363,
       "fileID": 3326041,
+      "required": true
+    },
+    {
+      "projectID": 542235,
+      "fileID": 3530932,
       "required": true
     },
     {
@@ -510,6 +530,11 @@
       "required": true
     },
     {
+      "projectID": 296686,
+      "fileID": 3518678,
+      "required": true
+    },
+    {
       "projectID": 484954,
       "fileID": 3466080,
       "required": true
@@ -630,6 +655,11 @@
       "required": true
     },
     {
+      "projectID": 71738,
+      "fileID": 3489822,
+      "required": true
+    },
+    {
       "projectID": 378646,
       "fileID": 3340793,
       "required": true
@@ -690,8 +720,18 @@
       "required": true
     },
     {
+      "projectID": 382016,
+      "fileID": 3221772,
+      "required": true
+    },
+    {
       "projectID": 437717,
       "fileID": 3501698,
+      "required": true
+    },
+    {
+      "projectID": 252239,
+      "fileID": 3292950,
       "required": true
     },
     {
