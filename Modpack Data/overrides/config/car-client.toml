@@ -6,5 +6,5 @@
 	temp_farenheit = false
 	third_person_when_enter_car = true
 	#Range: 1.0 ~ 20.0
-	third_person_zoom = 6.0
+	third_person_zoom = 7.0
 

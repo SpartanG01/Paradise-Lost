@@ -372,7 +372,7 @@
 	"Double Door Opening" = true
 	"Automatic Recipe Unlock" = true
 	"Poison Potato Usage" = true
-	"Lava Bucket As Trash" = true
+	"Lava Bucket As Trash" = false
 	"Improved Sleeping" = true
 	"Infinity Bucket" = true
 	"Springy Slime" = true

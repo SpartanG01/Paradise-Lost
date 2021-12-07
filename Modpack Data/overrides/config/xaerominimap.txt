@@ -11,14 +11,14 @@ minimap:true
 caveMaps:1
 caveZoom:1
 showWaypoints:true
-showIngameWaypoints:true
+showIngameWaypoints:false
 displayRedstone:true
 deathpoints:false
 oldDeathpoints:true
 distance:1
 showCoords:true
 lockNorth:false
-zoom:1
+zoom:0
 minimapSize:120
 chunkGrid:-1
 slimeChunks:false
@@ -89,6 +89,7 @@ entityRadar:true
 adjustHeightForCarpetLikeBlocks:true
 autoConvertWaypointDistanceToKmThreshold:10000
 waypointDistancePrecision:1
+mainDotSize:2
 interface:dummy:0:36:true:false:false:false
 interface:dummy:0:10000:true:false:false:false
 interface:dummy:0:0:false:false:true:false
