@@ -27,4 +27,6 @@
 	"Enchanting Power" = 15
 	#Blocks without a collision shape do not block bookshelves placed behind from counting towards current enchanting power.
 	"Lenient Bookshelves" = false
+	#Only allow items that can be enchanted to be placed into the enchanting slot of an enchanting table. Useful when inserting items automatically with a hopper.
+	"Filter Enchanting Input" = false
 
